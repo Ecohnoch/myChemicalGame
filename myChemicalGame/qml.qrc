@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CGGame.qml</file>
+        <file>CGBot.qml</file>
+        <file>CGMolecular.qml</file>
+    </qresource>
+</RCC>
